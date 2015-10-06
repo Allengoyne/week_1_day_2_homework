@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+
+}
+.top-nav-bar {
+  height: 50px;
+  background-color: #118BC0;
+}
+.hero {
+  background-color: #344051;
+  height: 1300px;
+}
+h1 {
+  padding-top: 160px;
+  font-size: 35px;
+  font-weight:400;
+
+}
+h2 {
+  padding-top: 15px;
+  font-size: 16px;
+  font-weight: normal;
+
+}
+h1, h2, .create-website {
+  color: #fff;
+  margin: 0 auto;
+  text-align: center;
+}
+.create-website {
+  padding: 40px
+  background-color: #118BC0;
+  width: 230px;
+  height: 40px;
+  border: 10px solid #212934
+}
