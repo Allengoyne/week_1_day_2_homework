@@ -11,15 +11,16 @@
   height: 1300px;
 }
 h1 {
-  padding-top: 160px;
+  padding: 160px 0 20px 0;
   font-size: 35px;
   font-weight:400;
 
 }
 h2 {
-  padding-top: 15px;
+
   font-size: 16px;
   font-weight: normal;
+  padding-bottom: 30px;
 
 }
 h1, h2, .create-website {
@@ -28,9 +29,51 @@ h1, h2, .create-website {
   text-align: center;
 }
 .create-website {
-  padding: 40px
   background-color: #118BC0;
   width: 230px;
-  height: 40px;
+  height: 70px;
   border: 10px solid #212934
 }
+.create-website a {
+  text-decoration: none;
+  color: #fff;
+  margin-top: 15px;
+  float: left;
+  padding-left: 42px;
+}
+.arrow   {
+  margin: 135px auto;
+  margin-top: 232px;
+  height: 20px;
+  width: 50px;
+  background-color: #fff;
+}
+
+.mobile {
+  margin: 0 auto;
+  background-color: #fff;
+  height: 70px;
+  width: 300px;
+  padding-top: 135px;
+}
+.freshly-pressed {
+  margin: 25px auto;
+  background-color: #fff;
+  height: 135px;
+  width: 300px;
+  padding-top: 25px;
+}
+
+.designs {
+  margin: 25px auto;
+  background-color: #fff;
+  height: 135px;
+  width: 300px;
+  padding-top: 25px;
+}
+
+
+
+
+
+/**/
