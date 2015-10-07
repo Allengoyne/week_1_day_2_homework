@@ -1,39 +1,42 @@
 * {
   box-sizing: border-box;
-
 }
+
 .top-nav-bar {
   height: 50px;
   background-color: #118BC0;
 }
+
 .hero {
   background-color: #344051;
   height: 1300px;
 }
+
 h1 {
   padding: 160px 0 20px 0;
   font-size: 35px;
   font-weight:400;
-
 }
-h2 {
 
+h2 {
   font-size: 16px;
   font-weight: normal;
   padding-bottom: 30px;
-
 }
+
 h1, h2, .create-website {
   color: #fff;
   margin: 0 auto;
   text-align: center;
 }
+
 .create-website {
   background-color: #118BC0;
   width: 230px;
   height: 70px;
   border: 10px solid #212934
 }
+
 .create-website a {
   text-decoration: none;
   color: #fff;
@@ -41,6 +44,7 @@ h1, h2, .create-website {
   float: left;
   padding-left: 42px;
 }
+
 .arrow   {
   margin: 135px auto;
   margin-top: 232px;
@@ -56,6 +60,7 @@ h1, h2, .create-website {
   width: 300px;
   padding-top: 135px;
 }
+
 .freshly-pressed {
   margin: 25px auto;
   background-color: #fff;
@@ -72,6 +77,11 @@ h1, h2, .create-website {
   padding-top: 25px;
 }
 
+.transition {
+  background-color: #E8F0F5;
+  height: 190px;
+  display: block;
+}
 
 
 
