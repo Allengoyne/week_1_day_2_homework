@@ -8,8 +8,11 @@
 }
 
 .hero {
+  background-image: url("../assets/crowd.jpg");
   background-color: #344051;
+  background-size: cover;
   height: 1300px;
+
 }
 
 h1 {
@@ -95,9 +98,29 @@ section.features article {
   margin: 0 auto;
 }
 
-nav {
-height: 130px;
-background: 000;}
+footer.main {
+  background: #000000;
+  height: 135px;
+}
+
+nav .bottom-nav {
+  text-align: center;
+}
+
+nav.bottom-nav a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 17px 0 0 ;
+}
+footer.main h4 {
+  width: 132px;
+  height: 25;
+  background: #fff;
+  margin: 0 auto;
+  text-indent: -99999px;
+}
+
+
 
 
   /**/
