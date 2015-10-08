@@ -6,6 +6,18 @@
   height: 50px;
   background-color: #118BC0;
 }
+.top-nav-bar img {
+  width: 40px;
+  padding: 0;
+  margin: 5px 10px;
+}
+
+.top-nav-bar nav {
+  color: #fff;
+  margin: 0 auto;
+
+  display: inline-block;
+}
 
 .hero {
   background-image: url("../assets/crowd.jpg");
@@ -48,7 +60,7 @@ h1, h2, .create-website {
   padding-left: 42px;
 }
 
-.arrow   {
+ .arrow {
   margin: 135px auto;
   margin-top: 232px;
   height: 20px;
@@ -69,6 +81,8 @@ section.feature div {
   height: 190px;
   padding: 0;
   margin: 0;
+  font-size: 25px;
+  line-height: 30px;
 }
 
 section.features  {
