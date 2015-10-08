@@ -30,7 +30,7 @@ h1, h2, .create-website {
   text-align: center;
 }
 
-.create-website {
+.create-website.border {
   background-color: #118BC0;
   width: 230px;
   height: 70px;
@@ -53,37 +53,51 @@ h1, h2, .create-website {
   background-color: #fff;
 }
 
-.mobile {
-  margin: 0 auto;
+section.feature div {
+  margin: 0 auto 30px ;
   background-color: #fff;
   height: 70px;
   width: 300px;
-  padding-top: 135px;
+
 }
 
-.freshly-pressed {
-  margin: 25px auto;
-  background-color: #fff;
-  height: 135px;
-  width: 300px;
-  padding-top: 25px;
-}
-
-.designs {
-  margin: 25px auto;
-  background-color: #fff;
-  height: 135px;
-  width: 300px;
-  padding-top: 25px;
-}
-
-.transition {
+.transition p {
   background-color: #E8F0F5;
   height: 190px;
-  display: block;
+  padding: 0;
+  margin: 0;
 }
 
+section.features  {
+  background: #D1D3D7;
+  padding: 30px 10px;
+}
+
+section.features article {
+  background: #fff;
+  height: 215px;
+  color: #fff;
+  margin: 0 0 30px 0;
+}
+
+.footer {
+  padding: 98px 0 20px 0;
+  background: #E8F0F5;
+}
+.create-website {
+  background-color: #118BC0;
+  width: 230px;
+  height: 70px;
+}
+
+.create-website a {
+  display: block;
+  margin: 0 auto;
+}
+
+nav {
+height: 130px;
+background: 000;}
 
 
-
-/**/
+  /**/
